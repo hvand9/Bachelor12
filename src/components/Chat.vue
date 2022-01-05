@@ -10,7 +10,7 @@
       <p>Husk altid den gode tone inden du beslutter dig, at tilsutte dig til chatten. 
         Alle samtalerne er private og må ikke deles med andre medlemmer</p>
      
-  <button onclick="window.location.href='https://nifty-montalcini-3382e1.netlify.app/'">Tilbage</button>
+  <button onclick="window.location.href='https://nifty-montalcini-3382e1.netlify.app/'">Åben chat</button>
     </div>
     <p>Fandt du ikke dit spil? Fortvivl ej! Der er hele tiden nye events!</p>
     </div>
